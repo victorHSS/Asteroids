@@ -7,5 +7,6 @@ Compilar com ./make
 Para rodar, necessita estar com joystick plugado ;).
 
 Segue print:
-![image](https://github.com/user-attachments/assets/a65216c9-ebe1-4dba-a2b3-620a12c4fa95)
+![image](https://github.com/user-attachments/assets/22829394-eda8-4026-92c8-00218b74911a)
+
 
